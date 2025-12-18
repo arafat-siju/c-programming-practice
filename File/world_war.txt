@@ -1,0 +1,14 @@
+Magnetic Permeability (μ):
+Magnetic permeability measures how easily a material allows magnetic field lines to pass through it.
+
+In other words, it shows how well a material can become magnetized when placed in a magnetic field.
+
+A higher permeability means the material supports the formation of magnetic fields more easily (for example, soft iron).
+
+
+
+in a rc coupled bjt amplifier when i have to check the frequency response?
+1)without load without bypass capacitor
+2)without load with bypass capacitor
+3) with load no bypass capacitor
+4) with load with bypass capacitor?
