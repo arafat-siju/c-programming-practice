@@ -5,7 +5,6 @@ input: 14730, output: 03741
 */
 
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
         int n, reversed=0, remainder;

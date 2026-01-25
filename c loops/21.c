@@ -6,7 +6,6 @@ Input:60, output:(1, 59), (7, 53), (13,47), (17, 43), (19, 41), (23, 37), (29, 3
 */
 
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
         int n, n1, n2, count, counter, i, j;

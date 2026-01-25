@@ -9,7 +9,6 @@ N. 1 *2 *3 *4 *5*....* N = prod
 */
 
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
         int n, i, j;

@@ -1,7 +1,6 @@
 // Find the all the prime numbers in number n Where n will be given through key board.
 
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
         int n, i, j, count;

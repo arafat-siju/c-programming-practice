@@ -1,7 +1,6 @@
 // Calculate the value of the series of e^x , e^-x , log(1+x) , log(1-x)
 
 #include <stdio.h>
-#include <conio.h>
 #include <math.h>
 
 int main(){

@@ -3,7 +3,6 @@
 
 
 #include <stdio.h>
-#include <conio.h>
 #include <math.h>
 #define PI 3.14159265359
 

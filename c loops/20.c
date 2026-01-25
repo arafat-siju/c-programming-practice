@@ -5,7 +5,6 @@ input: 30, output: 1,2,3,5,6,10,15,30
 */
 
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
         int a, i=1;

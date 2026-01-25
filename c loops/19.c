@@ -5,7 +5,6 @@ input: 7, output: 111
 */
 
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
         int a, arr[50],i;

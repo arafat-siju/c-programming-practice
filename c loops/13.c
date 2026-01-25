@@ -10,7 +10,6 @@ N. 1 +2 +3 +4 +5+....+ N = sum
 
 /*
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
     int N, i, j, sum;
@@ -34,7 +33,6 @@ int main(){
 */  
 
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
         int N, i, j, sum;

@@ -1,13 +1,12 @@
 // Write the Fibonacci series up to n Where n will be given through the keyboard.
 
 #include <stdio.h>
-#include <conio.h>
 
 int main() {
         int n, a, b, c;
 
         printf("Enter a number: ");
-        scanf("%d", &n);
+        scanf("%d", & n);
 
         a = 0;
         b = 1;

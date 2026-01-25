@@ -1,7 +1,6 @@
 // find out the factorial of a number N. where N will come from keyboard.
 
 #include <stdio.h>
-#include <conio.h>
 
 int main(){
         int n, i, fact;
